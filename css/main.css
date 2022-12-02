@@ -13,12 +13,12 @@
   
   body { 
   font-family: sans-serif;
-  background-color: black;
+  /* background-color: black; */
   color: white;
   
-  background-image: url("../images/background.webp");
+  background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  /* background-size: contain; */
   }
   
   /* main header rules */
